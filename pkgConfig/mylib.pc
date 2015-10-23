@@ -1,0 +1,5 @@
+Name: mylib
+Version: 1.0.0
+Description: a test library
+Libs: -I.
+Cflags: -L. -lmylib
